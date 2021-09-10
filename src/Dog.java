@@ -1,6 +1,6 @@
 public class Dog 
 {
-    private String breed;
+    String breed;
     // Add an instance variable here for name.
     
     public Dog(String theBreed)
